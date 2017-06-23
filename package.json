@@ -1,0 +1,9 @@
+{
+  "name": "serverless-enable-xray",
+  "version": "1.0.0",
+  "description": "Temporary plugin to enable X-Ray tracing for Serverless projects until it gets added to Serverless itself.",
+  "main": "index.js",
+  "repository": "git@github.com:OwnLocal/serverless-enable-xray.git",
+  "author": "Paul Bonser <paul@ownlocal.com>",
+  "license": "MIT"
+}
